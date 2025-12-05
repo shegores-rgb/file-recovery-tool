@@ -1,2 +1,1 @@
-Как запустить: 1) через консоль перейти в папку src 2) прописать java Main 3) создать файлы «files_to_recover» и «recovered_files», перетащить файлы из моей папки «files_to_recover» в папку «files_to_recover» или перетащить туда свои. 4) готово к работе"# file-recovery-tool" 
-"# file-recovery-tool" 
+Как запустить: 1) через консоль перейти в папку проекта через консоль 2) прописать "javac -encoding UTF-8 -d bin src/*.java" для компиляции ,для запуска "java -cp bin Main" 3) создадуться файлы после запуска программы «files_to_recover» и «recovered_files», перетащить файлы в папку «files_to_recover». 4) готово к работе.
